@@ -46,11 +46,6 @@ body {
   /* overflow: hidden; */
 }
 
-#root[mobile-menu-opened] #home {
-  pointer-events: none;
-  user-select: none;
-}
-
 #app {
   height: 100%;
   box-sizing: border-box;
