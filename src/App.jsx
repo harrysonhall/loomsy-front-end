@@ -14,11 +14,9 @@ import Home from "./Pages/Home/Home";
 const App = () => {
   return (
     <Router>
-      <Navigation />
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
-      <Footer />
     </Router>
 
     // <>
