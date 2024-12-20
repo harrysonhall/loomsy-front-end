@@ -2,8 +2,6 @@ import React, { useEffect } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import ReactDOM from "react-dom";
 
-import { Navigation } from "./Navigation/Navigation";
-import { Footer } from "./Footer/Footer";
 
 import Home from "./Pages/Home/Home";
 
